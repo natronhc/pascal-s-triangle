@@ -1,3 +1,5 @@
+//Can Ahmet Ayrıer Tarafından oluşturuldu.
+//created by Can Ahmet Ayrıer
 #include <stdio.h>
 #include<conio.h>
 int main() {
