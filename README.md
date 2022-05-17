@@ -9,8 +9,9 @@ C dilinde pascal üçgeni oluşturma.
 
 
 
-// Can Ahmet Ayrıer Tarafından oluşturuldu.
+// Can Ahmet Ayrıer tarafından oluşturuldu.
 
 // Created by Can Ahmet Ayrıer
+
 
 */
