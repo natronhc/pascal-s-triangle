@@ -8,7 +8,6 @@ C dilinde pascal üçgeni oluşturma.
 
 
 
-
 // Can Ahmet Ayrıer Tarafından oluşturuldu.
 
 // Created by Can Ahmet Ayrıer
